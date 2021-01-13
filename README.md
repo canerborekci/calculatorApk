@@ -1,6 +1,8 @@
 # calculatorApk
 Eğitim amaçlıdır.
 
+Uygulama görüntüleri aşağıdaki gibidir.
+
 ![alt text](https://linkpicture.com/q/1_1240.jpg)
 
 ![alt text](https://linkpicture.com/q/2_881.jpg)
